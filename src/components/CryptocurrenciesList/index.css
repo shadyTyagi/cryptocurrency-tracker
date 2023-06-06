@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #00e7ff;
+  margin: 15px;
+}
+
+.currencies-list {
+  border: bold;
+  border-radius: 15px;
+  border-color: #00e7ff;
+}
